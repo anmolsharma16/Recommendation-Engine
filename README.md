@@ -7,3 +7,5 @@ Filter movies based on similarity between Credits, Genres and Keyword story.Used
 
 Collaborative filtering:
 Movies are divided into clusters based on vote count and average votes.Cluster with most average votes is recommended to user.Used Pearson's Correlation to detect similarity among movies.
+
+![download](https://user-images.githubusercontent.com/60782798/118250841-7f769680-b4c4-11eb-815b-4431e5c9fd5d.jpg)
